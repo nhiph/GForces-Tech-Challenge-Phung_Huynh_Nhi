@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/76526952/157793900-c682a396-d9bf-4abf-92df-34f142960f4a.png)
 ![image](https://user-images.githubusercontent.com/76526952/157793977-7f2a574f-2821-4bf4-9873-06d34ed0fdc7.png)
 
-My project include
+My project includes
 ## 1. UI (header, slider snap image, sidebar, carousel, bookView, footer, backTop, cartModal, Loading)
     1.1 Main page /books
     1.2 Detail page /books/:id   
